@@ -1,3 +1,5 @@
+// Verified yukicoder 856
+
 class FFT {
 	public static void main(String[] args) {
 		new Main().run();
